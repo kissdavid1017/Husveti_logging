@@ -1,0 +1,4 @@
+14:54:27.360 INFO  Van nekem egy kis locsolóm {iteráció:=1}
+14:54:27.365 FATAL Nagy röhögés lenne {iteráció:=1}
+14:54:30.366 INFO  Van nekem egy kis locsolóm {iteráció:=2}
+14:54:30.369 FATAL Nagy röhögés lenne {iteráció:=2}
